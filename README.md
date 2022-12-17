@@ -1,5 +1,5 @@
 # Basic-Banking-System
-Hello guys, I have completed my task 1 Basic Banking System as a Web Development Intern under #GRIPNOVEMBER22 (i.e) GRADUATE ROTATIONAL INTERNSHIP PROGRAM by The Sparks Foundation. A Web Application used to transfer money between multiple users.
+Hello guys, I have completed my task 1 Basic Banking System as a Web Development Intern under #GRIPDECEMBER22 (i.e) GRADUATE ROTATIONAL INTERNSHIP PROGRAM by The Sparks Foundation. A Web Application used to transfer money between multiple users.
 
 Front-end : HTML, CSS & Bootstrap Back-end : PHP Database : MySQL
 

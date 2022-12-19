@@ -7,4 +7,5 @@ Flow of the website: Home page > View all Customers > Select and View one Custom
 <hr>
 
 # Screenshot
+
 <img src="C:\Users\HP\Desktop\jugal\banking screen.png" class="img-fluid">

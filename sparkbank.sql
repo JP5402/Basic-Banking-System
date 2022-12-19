@@ -40,7 +40,7 @@ CREATE TABLE `transaction` (
 --
 
 INSERT INTO `transaction` (`tid`, `sender`, `receiver`, `balance`, `datetime`) VALUES
-(1, 'Anshu', 'Chirag', 1000, '2022-12-10 14:21:48');
+(1, 'Jugal', 'Chirag', 1000, '2022-12-10 14:21:48');
 
 -- --------------------------------------------------------
 
@@ -60,7 +60,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`uid`, `name`, `email`, `balance`) VALUES
-(1, 'Anshu', 'anshu@gmail.com', 49000),
+(1, 'Jugal', 'jugal@gmail.com', 49000),
 (2, 'Chirag', 'chirag@gmail.com', 71000);
 
 --

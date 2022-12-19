@@ -6,7 +6,7 @@
 }
 
 .intro {
-    background: #99f1ff;
+    background: #c9ecfd;
 }
 
 h1 {
@@ -22,8 +22,7 @@ h3 {
 button {
     border: none;
     border-radius: 8px;
-    padding: 15px;
-    top: 5px;
+    padding: 10px;
     background: #7B8788;
     color: white;
     color: white;
@@ -38,15 +37,18 @@ h1:hover {
 }
 
 button:hover {
-    background-color: #4C4B4B;
+    background-color: #000000;
 }
 
 footer {
-    color: #ffffff;
+    color: #000000;
     background-color: #EAF0F1;
-    background: #ffffff;
+    background: #9c9fa1;
     letter-spacing: 0.5px;
     position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 footer p {

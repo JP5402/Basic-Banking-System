@@ -7,4 +7,5 @@ Flow of the website: Home page > View all Customers > Select and View one Custom
 <hr>
 
 #Screenshot:
+
 https://user-images.githubusercontent.com/96952182/208392427-2964ce31-aa4b-4494-9b3a-8a3a9117f7f6.png

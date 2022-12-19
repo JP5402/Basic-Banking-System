@@ -5,6 +5,3 @@ Front-end : HTML, CSS & Bootstrap Back-end : PHP Database : MySQL
 
 Flow of the website: Home page > View all Customers > Select and View one Customer > Transfer Money > Select Customer to transfer to > View All Customers.
 <hr>
-
-# Screenshot:
-file:///C:/Users/HP/Desktop/jugal/banking%20screen.png
